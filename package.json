@@ -1,0 +1,22 @@
+{
+    "author": {
+        "email": "junk@clearblade.com"
+    },
+    "clouds": [],
+    "description": "SendGrid RESTful Email Library",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform"
+    ],
+    "license": "MIT",
+    "name": "export-jan4dfgh",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": ""
+}
